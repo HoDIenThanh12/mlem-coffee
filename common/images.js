@@ -43,7 +43,9 @@ export const images = {
     iconResponsibility:require('static/asset/image/Icon/iconResponsibility.png'),
     iconHeart:require('static/asset/image/Icon/iconHeart.png'),
     iconHeart1:require('static/asset/image/Icon/iconHeart1.png'),
-    avatarDefault:require('static/asset/image/Icon/avatarDefault.png')
+    avatarDefault:require('static/asset/image/Icon/avatarDefault.png'),
+    avatarHome1:require('static/asset/image/Icon/home1-policy.png')
+
   },
   userDetail:{
     iconUserDetail:require('static/asset/image/Profile/Userdetail/iconUserDetail.png'),
